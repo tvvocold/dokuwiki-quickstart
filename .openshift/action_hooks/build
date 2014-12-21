@@ -6,7 +6,7 @@
 
 install_version="release_stable_2014-05-05a"
 
-download_url="https://codeload.github.com/splitbrain/dokuwiki/legacy.tar.gz/${install_version}"
+download_url="https://codeload.github.com/splitbrain/dokuwiki/tar.gz/${install_version}"
 
 # Download and install Dokuwiki
 
